@@ -76,7 +76,7 @@ The members made all contributions to this library of the [TJS Mafia Discord ser
 ### Hardware:
 
 1. Hardware Security, Semi-invasive attacks, a new approach to hardware security analysis: https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-630.pdf
-2. > How to reverse engineer integrated circuits: https://www.youtube.com/watch?v=aHx-XUA6f9g
+2. How to reverse engineer integrated circuits: https://www.youtube.com/watch?v=aHx-XUA6f9g
    > Blog: https://www.youtube.com/watch?v=aHx-XUA6f9g
    > Samy Kankar applied-hacking channel: https://www.youtube.com/user/s4myk
    > Telegram Channel: https://t.me/hardwareSecurity
@@ -85,7 +85,7 @@ The members made all contributions to this library of the [TJS Mafia Discord ser
 
 1. Database Management Systems - Ramakrishnan Gehrke 3rd-Edition: https://github.com/Premiumlab/Database-Management-System-Ramakrishnan-Gehrke-3rd-Edition
 2. Fundamentals of Cloud computing: https://github.com/learntocloud/learn-to-cloud
-3. > Top YouTube channels for competitive/Algorithmic Programming:
+3. Top YouTube channels for competitive/Algorithmic Programming:
    > -  https://youtube.com/@Errichto
    > -  https://youtube.com/@PriyanshAgarwal
    > -  https://youtube.com/@WilliamFiset-videos - The Best for Network flows and graphs
@@ -99,19 +99,19 @@ The members made all contributions to this library of the [TJS Mafia Discord ser
 4. Java book: https://gfgc.kar.nic.in/sirmv-science/GenericDocHandler/138-a2973dc6-c024-4d81-be6d-5c3344f232ce.pdf
 5. Master programming by recreating your favorite technologies from scratch: https://github.com/codecrafters-io/build-your-own-x
 6. Beginner resources for data structures and algorithms: Data Structures and Algorithms in Python Book by Michael H. Goldwasser, Michael T. Goodrich, and Roberto Tamassia
-7. > Primer on design patterns used in the Goodrich book:
+7. Primer on design patterns used in the Goodrich book:
    > - https://refactoring.guru/design-patterns/python
    > - https://github.com/mjwestcott/Goodrich
 8. A lighter book on Algorithms: Grokking Algorithms by Aditya Y. Bhargava
 9. Coding Interview university: https://github.com/jwasham/coding-interview-university
 10. UC Berkeley's cs61b is an introduction to data structures and algorithms course in Java: https://datastructur.es/
 11. Algorithmic Thinking by Tim Roughgarden: https://youtube.com/@timroughgardenlectures1861?si=ReCn-5S6Zefokpb3
-12. > László Lovász's Discrete Mathematics book: https://cims.nyu.edu/~regev/teaching/discrete_math_fall_2005/dmbook.pdf
+12. László Lovász's Discrete Mathematics book: https://cims.nyu.edu/~regev/teaching/discrete_math_fall_2005/dmbook.pdf
     > - Course 01: https://www.math.cmu.edu/~ploh/2021-228.shtml
     > - Course 02: https://youtube.com/playlist?list=PLgTkKBA6LRqYuuQ-LboerRblBoD_q_eUM
 13. Discrete Mathematics course: https://cs.wheaton.edu/~tvandrun/dmfp/
 14. Catalog of annotated code examples of all design patterns written in Python: https://youtube.com/playlist?list=PL8GFp_SBW-jdc7ZxO9SXkgZKKiNsD12M0&si=KRst6vtNLnxmuSgD
-15. > Intro to web dev in PHP
+15. Intro to web dev in PHP
     > - Harvard cs75 by David Malan of cs50: https://youtube.com/playlist?list=PL2puWTN1tf6LPXcpXx3WDcBMhcFM8sW2O
     > - Web applications for everybody by Chuck Severance University of Michigan: https://youtube.com/playlist?list=PLlRFEj9H3Oj7FHbnXWviqQt0sKEK_hdKX
     > - Book: https://milnepublishing.geneseo.edu/themissinglink/
@@ -120,16 +120,16 @@ The members made all contributions to this library of the [TJS Mafia Discord ser
 16. Intro to Web Dev in Python: https://runestone.academy/ns/books/published/webfundamentals/index.html
 17. Catalogue of Python resources: https://www.fullstackpython.com/
 18. Intro to Django web dev: https://wsvincent.com/books/
-19. > Intro to web-dev in Javascript
+19. Intro to web-dev in Javascript
     > - UC Berkley: https://youtube.com/@webdevatberkeley7546
     > - https://fullstackdecal.com/
     > - https://webatberkeley.notion.site/WDB-Dev-Design-Resources-b6d91c1b96834a8d8c86614e3c70bd74
     > - https://www.webatberkeley.org/
     > - University of Helsinki: https://fullstackopen.com/en/ (Introductory content on CI/CD using GitHub actions and containerization using docker)
-20. > Intro to Web security: https://web.stanford.edu/class/cs253/
+20. Intro to Web security: https://web.stanford.edu/class/cs253/
     > Lectures: https://youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-
 21. Learn SQL interactively: https://sqlbolt.com/
-22. > Database management systems:
+22. Database management systems:
     > - https://www.reddit.com/r/learnSQL/comments/15yxqds/database_theory_learning_resources_for_the
     > - https://www.reddit.com/r/learnSQL/comments/zybk5o/2023_update_the_best_resources_for_learning_sql
     > - https://online.stanford.edu/courses/soe-ydatabases-databases
@@ -157,11 +157,11 @@ The members made all contributions to this library of the [TJS Mafia Discord ser
 
 2. Papers with Code: https://paperswithcode.com/
 3. Arxiv Sanity: https://arxiv-sanity-lite.com/
-4. > Reference manager
+4. Reference manager
    > - https://www.mendeley.com/reference-management/reference-manager
    > - https://www.zotero.org/
    > - https://endnote.com/
-5. > YouTube channels that explain research papers
+5. YouTube channels that explain research papers
    > - https://www.youtube.com/playlist?list=PL1v8zpldgH3pR7LPuidEZK68kS6AaU1y7
    > - https://www.youtube.com/@hu-po
    > - https://www.youtube.com/playlist?list=PLqFaTIg4myu8t5ycqvp7I07jTjol3RCl9
