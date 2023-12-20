@@ -77,6 +77,7 @@ The members made all contributions to this library of the [TJS Mafia Discord ser
 
 1. Hardware Security, Semi-invasive attacks, a new approach to hardware security analysis: https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-630.pdf
 2. How to reverse engineer integrated circuits: https://www.youtube.com/watch?v=aHx-XUA6f9g
+
    > Blog: https://www.youtube.com/watch?v=aHx-XUA6f9g
    > Samy Kankar applied-hacking channel: https://www.youtube.com/user/s4myk
    > Telegram Channel: https://t.me/hardwareSecurity
@@ -86,6 +87,7 @@ The members made all contributions to this library of the [TJS Mafia Discord ser
 1. Database Management Systems - Ramakrishnan Gehrke 3rd-Edition: https://github.com/Premiumlab/Database-Management-System-Ramakrishnan-Gehrke-3rd-Edition
 2. Fundamentals of Cloud computing: https://github.com/learntocloud/learn-to-cloud
 3. Top YouTube channels for competitive/Algorithmic Programming:
+
    > -  https://youtube.com/@Errichto
    > -  https://youtube.com/@PriyanshAgarwal
    > -  https://youtube.com/@WilliamFiset-videos - The Best for Network flows and graphs
@@ -96,54 +98,68 @@ The members made all contributions to this library of the [TJS Mafia Discord ser
    > -  https://youtube.com/@AlgosWithKartik
    > -  https://youtube.com/@SecondThread
    > -  https://youtube.com/@ColinGalen
-4. Java book: https://gfgc.kar.nic.in/sirmv-science/GenericDocHandler/138-a2973dc6-c024-4d81-be6d-5c3344f232ce.pdf
-5. Master programming by recreating your favorite technologies from scratch: https://github.com/codecrafters-io/build-your-own-x
-6. Beginner resources for data structures and algorithms: Data Structures and Algorithms in Python Book by Michael H. Goldwasser, Michael T. Goodrich, and Roberto Tamassia
-7. Primer on design patterns used in the Goodrich book:
+
+5. Java book: https://gfgc.kar.nic.in/sirmv-science/GenericDocHandler/138-a2973dc6-c024-4d81-be6d-5c3344f232ce.pdf
+6. Master programming by recreating your favorite technologies from scratch: https://github.com/codecrafters-io/build-your-own-x
+7. Beginner resources for data structures and algorithms: Data Structures and Algorithms in Python Book by Michael H. Goldwasser, Michael T. Goodrich, and Roberto Tamassia
+8. Primer on design patterns used in the Goodrich book:
+
    > - https://refactoring.guru/design-patterns/python
    > - https://github.com/mjwestcott/Goodrich
-8. A lighter book on Algorithms: Grokking Algorithms by Aditya Y. Bhargava
-9. Coding Interview university: https://github.com/jwasham/coding-interview-university
-10. UC Berkeley's cs61b is an introduction to data structures and algorithms course in Java: https://datastructur.es/
-11. Algorithmic Thinking by Tim Roughgarden: https://youtube.com/@timroughgardenlectures1861?si=ReCn-5S6Zefokpb3
-12. László Lovász's Discrete Mathematics book: https://cims.nyu.edu/~regev/teaching/discrete_math_fall_2005/dmbook.pdf
+
+10. A lighter book on Algorithms: Grokking Algorithms by Aditya Y. Bhargava
+11. Coding Interview university: https://github.com/jwasham/coding-interview-university
+12. UC Berkeley's cs61b is an introduction to data structures and algorithms course in Java: https://datastructur.es/
+13. Algorithmic Thinking by Tim Roughgarden: https://youtube.com/@timroughgardenlectures1861?si=ReCn-5S6Zefokpb3
+14. László Lovász's Discrete Mathematics book: https://cims.nyu.edu/~regev/teaching/discrete_math_fall_2005/dmbook.pdf
+
     > - Course 01: https://www.math.cmu.edu/~ploh/2021-228.shtml
     > - Course 02: https://youtube.com/playlist?list=PLgTkKBA6LRqYuuQ-LboerRblBoD_q_eUM
-13. Discrete Mathematics course: https://cs.wheaton.edu/~tvandrun/dmfp/
-14. Catalog of annotated code examples of all design patterns written in Python: https://youtube.com/playlist?list=PL8GFp_SBW-jdc7ZxO9SXkgZKKiNsD12M0&si=KRst6vtNLnxmuSgD
-15. Intro to web dev in PHP
+
+16. Discrete Mathematics course: https://cs.wheaton.edu/~tvandrun/dmfp/
+17. Catalog of annotated code examples of all design patterns written in Python: https://youtube.com/playlist?list=PL8GFp_SBW-jdc7ZxO9SXkgZKKiNsD12M0&si=KRst6vtNLnxmuSgD
+18. Intro to web dev in PHP
+
     > - Harvard cs75 by David Malan of cs50: https://youtube.com/playlist?list=PL2puWTN1tf6LPXcpXx3WDcBMhcFM8sW2O
     > - Web applications for everybody by Chuck Severance University of Michigan: https://youtube.com/playlist?list=PLlRFEj9H3Oj7FHbnXWviqQt0sKEK_hdKX
     > - Book: https://milnepublishing.geneseo.edu/themissinglink/
     > - PHP & MySQL: Novice to Ninja by Tom Butler
     > - API Development with PHP: https://apisyouwonthate.com/books/
-16. Intro to Web Dev in Python: https://runestone.academy/ns/books/published/webfundamentals/index.html
-17. Catalogue of Python resources: https://www.fullstackpython.com/
-18. Intro to Django web dev: https://wsvincent.com/books/
-19. Intro to web-dev in Javascript
+
+20. Intro to Web Dev in Python: https://runestone.academy/ns/books/published/webfundamentals/index.html
+21. Catalogue of Python resources: https://www.fullstackpython.com/
+22. Intro to Django web dev: https://wsvincent.com/books/
+23. Intro to web-dev in Javascript
+
     > - UC Berkley: https://youtube.com/@webdevatberkeley7546
     > - https://fullstackdecal.com/
     > - https://webatberkeley.notion.site/WDB-Dev-Design-Resources-b6d91c1b96834a8d8c86614e3c70bd74
     > - https://www.webatberkeley.org/
     > - University of Helsinki: https://fullstackopen.com/en/ (Introductory content on CI/CD using GitHub actions and containerization using docker)
-20. Intro to Web security: https://web.stanford.edu/class/cs253/
+
+25. Intro to Web security: https://web.stanford.edu/class/cs253/
+
     > Lectures: https://youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-
-21. Learn SQL interactively: https://sqlbolt.com/
-22. Database management systems:
+
+27. Learn SQL interactively: https://sqlbolt.com/
+28. Database management systems:
+
     > - https://www.reddit.com/r/learnSQL/comments/15yxqds/database_theory_learning_resources_for_the
     > - https://www.reddit.com/r/learnSQL/comments/zybk5o/2023_update_the_best_resources_for_learning_sql
     > - https://online.stanford.edu/courses/soe-ydatabases-databases
     > - http://www.databaselecture.com/
-23. Database internals, Architecture of a database system: http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf
-24. Collection of significant DBMS papers: http://www.redbook.io/
-25. Upper-level course on the internals of database management systems: https://15445.courses.cs.cmu.edu/fall2022/syllabus.html
-26. Intro to database systems: https://m.youtube.com/playlist?list=PLSE8ODhjZXjaKScG3l0nuOiDTTqpfnWFf
-27. Advanced database management systems: https://youtube.com/playlist?list=PLSE8ODhjZXjYzlLMbX3cR0sxWnRM7CLFn
-28. Database group website: https://db.cs.cmu.edu/
+
+30. Database internals, Architecture of a database system: http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf
+31. Collection of significant DBMS papers: http://www.redbook.io/
+32. Upper-level course on the internals of database management systems: https://15445.courses.cs.cmu.edu/fall2022/syllabus.html
+33. Intro to database systems: https://m.youtube.com/playlist?list=PLSE8ODhjZXjaKScG3l0nuOiDTTqpfnWFf
+34. Advanced database management systems: https://youtube.com/playlist?list=PLSE8ODhjZXjYzlLMbX3cR0sxWnRM7CLFn
+35. Database group website: https://db.cs.cmu.edu/
 
 ### AI-ML, Data Science, Deep Learning, etc.
 
 #### 1. Getting started with reading ML Research Papers (Written by Ellfer Rudy, Discord username: ellferrudy)
+  
   > So, starting, you must know basic and common mathematic notations. For that, ill suggest you learn them and use some cheat sheets as a reference.
   > - https://machinelearningmastery.com/basics-mathematical-notation-machine-learning/
   > - https://hci-kdd.org/wordpress/wp-content/uploads/2016/02/HOLZINGER-Machine-Learning-Notation.pdf
@@ -158,10 +174,13 @@ The members made all contributions to this library of the [TJS Mafia Discord ser
 2. Papers with Code: https://paperswithcode.com/
 3. Arxiv Sanity: https://arxiv-sanity-lite.com/
 4. Reference manager
+
    > - https://www.mendeley.com/reference-management/reference-manager
    > - https://www.zotero.org/
    > - https://endnote.com/
-5. YouTube channels that explain research papers
+
+6. YouTube channels that explain research papers
+
    > - https://www.youtube.com/playlist?list=PL1v8zpldgH3pR7LPuidEZK68kS6AaU1y7
    > - https://www.youtube.com/@hu-po
    > - https://www.youtube.com/playlist?list=PLqFaTIg4myu8t5ycqvp7I07jTjol3RCl9
@@ -169,27 +188,28 @@ The members made all contributions to this library of the [TJS Mafia Discord ser
    > - https://www.youtube.com/@AndrejKarpathy
    > - https://www.youtube.com/@TheAIEpiphany/videos
    > - http://jalammar.github.io/
-6. From 0 to Research Scientist, Detailed and tailored guide for UG students in AI: https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide
-7. Data Science best resources: https://github.com/tirthajyoti/Data-science-best-resources
-8. A comprehensive list of 180+ YouTube Channels for Data Science, Data Engineering, Machine Learning, Deep Learning by BentheCoder: https://github.com/benthecoder/yt-channels-DS-AI-ML-CS
-9. Curated resources for learning ML from scratch: https://sgfin.github.io/learning-resources/#realA
-10. Annotated PyTorch paper implementations: https://nn.labml.ai/index.html
-11. New paper on image editing and manipulation, Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold: https://huggingface.co/papers/2305.10973
-12. CSEP 546, Data Mining and Machine learning: https://www.youtube.com/watch?v=LnlW9gdjWfc&list=PLTPQEx-31JXgtDaC6-3HxWcp7fq4N8YGr
-13. dair-AI ML-Youtube courses: https://github.com/dair-ai/ML-YouTube-Courses
-14. Stanford CS230: Deep Learning - https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb
-15. Deep Learning by Andreas Geiger - https://www.youtube.com/playlist?list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD
-16. MIT 6.S191: Introduction to Deep Learning - https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
-17. Deep Learning Course (NYU, Spring 2020) - https://www.youtube.com/playlist?list=PL80I41oVxglKcAHllsU0txr3OuTTaWX2v
-18. Deep Learning - IIT Madras - https://www.youtube.com/playlist?list=PLyqSpQzTE6M9gCgajvQbc68Hk_JKGBAYT
-19. Neural Networks: Zero to Hero - https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ (personal fav. playlist)
-20. Practical Deep Learning for Coders 2022 - https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU
-21. Supervised Machine Learning - https://www.coursera.org/learn/machine-learning
-22. Building systems with ChatGPT: https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/
-23. LangChain for LLM applications development: https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/
-24. ChatGPT Prompt Engineering for Devs: https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
-25. Comprehensive list of awesome deep learning: https://github.com/Siddharth1India/Awesome-Deep-Learning
-26. Understanding Deep Learning, by Simon J.D Prince: https://udlbook.github.io/udlbook/
-27. Introduction to machine learning: https://www.youtube.com/watch?v=w2OtwL5T1ow&list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6
-28. Tasks, stability, architecture, and compute: Training more effective learned optimizers and using them to train themselves: https://arxiv.org/abs/2009.11243
-29. Stanford XCS224U: NLU I Intro & Evolution of Natural Language Understanding, Pt. 1 I Spring 2023: https://youtu.be/K_Dh0Sxujuc?list=PLoROMvodv4rOwvldxftJTmoR3kRcWkJBp&si=eDbam_QB6qYn00cO
+
+8. From 0 to Research Scientist, Detailed and tailored guide for UG students in AI: https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide
+9. Data Science best resources: https://github.com/tirthajyoti/Data-science-best-resources
+10. A comprehensive list of 180+ YouTube Channels for Data Science, Data Engineering, Machine Learning, Deep Learning by BentheCoder: https://github.com/benthecoder/yt-channels-DS-AI-ML-CS
+11. Curated resources for learning ML from scratch: https://sgfin.github.io/learning-resources/#realA
+12. Annotated PyTorch paper implementations: https://nn.labml.ai/index.html
+13. New paper on image editing and manipulation, Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold: https://huggingface.co/papers/2305.10973
+14. CSEP 546, Data Mining and Machine learning: https://www.youtube.com/watch?v=LnlW9gdjWfc&list=PLTPQEx-31JXgtDaC6-3HxWcp7fq4N8YGr
+15. dair-AI ML-Youtube courses: https://github.com/dair-ai/ML-YouTube-Courses
+16. Stanford CS230: Deep Learning - https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb
+17. Deep Learning by Andreas Geiger - https://www.youtube.com/playlist?list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD
+18. MIT 6.S191: Introduction to Deep Learning - https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI
+19. Deep Learning Course (NYU, Spring 2020) - https://www.youtube.com/playlist?list=PL80I41oVxglKcAHllsU0txr3OuTTaWX2v
+20. Deep Learning - IIT Madras - https://www.youtube.com/playlist?list=PLyqSpQzTE6M9gCgajvQbc68Hk_JKGBAYT
+21. Neural Networks: Zero to Hero - https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ (personal fav. playlist)
+22. Practical Deep Learning for Coders 2022 - https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU
+23. Supervised Machine Learning - https://www.coursera.org/learn/machine-learning
+24. Building systems with ChatGPT: https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/
+25. LangChain for LLM applications development: https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/
+26. ChatGPT Prompt Engineering for Devs: https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
+27. Comprehensive list of awesome deep learning: https://github.com/Siddharth1India/Awesome-Deep-Learning
+28. Understanding Deep Learning, by Simon J.D Prince: https://udlbook.github.io/udlbook/
+29. Introduction to machine learning: https://www.youtube.com/watch?v=w2OtwL5T1ow&list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6
+30. Tasks, stability, architecture, and compute: Training more effective learned optimizers and using them to train themselves: https://arxiv.org/abs/2009.11243
+31. Stanford XCS224U: NLU I Intro & Evolution of Natural Language Understanding, Pt. 1 I Spring 2023: https://youtu.be/K_Dh0Sxujuc?list=PLoROMvodv4rOwvldxftJTmoR3kRcWkJBp&si=eDbam_QB6qYn00cO
