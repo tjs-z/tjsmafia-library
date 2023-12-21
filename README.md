@@ -185,21 +185,21 @@ This is a curated list of contributions by individual contributors, and all righ
 42. This intro to programming felt interesting pedagogy-wise: https://dcic-world.org/2022-08-28/index.html
 43. Programming language theory
 
-   > - Course site https://cs.brown.edu/courses/csci1730/2022/index.html
-   > - Book -https://www.plai.org/ (edited)
+    > - Course site https://cs.brown.edu/courses/csci1730/2022/index.html
+    > - Book -https://www.plai.org/ (edited)
 
 44. System Design
 
-   > - https://github.com/donnemartin/system-design-primer
-   > - https://blog.bytebytego.com/p/free-system-design-pdf-158-pages
-   > - https://github.com/ByteByteGoHq/system-design-101
-   > - https://www.youtube.com/@SDFC
+    > - https://github.com/donnemartin/system-design-primer
+    > - https://blog.bytebytego.com/p/free-system-design-pdf-158-pages
+    > - https://github.com/ByteByteGoHq/system-design-101
+    > - https://www.youtube.com/@SDFC
 
 45. Software Architecture: https://aosabook.org/en/
-46. Software engineering Free book + lectures 
+46. Software engineering Free book + lectures
 
-   > - https://saasbook.info/
-   > - https://m.youtube.com/@saasbook/playlists
+    > - https://saasbook.info/
+    > - https://m.youtube.com/@saasbook/playlists
 
 47. Lectures: https://www.cs.cornell.edu/courses/cs5150/2020sp/lectures.html
 48. New syllabus  video lectures: https://www.cs.cornell.edu/courses/cs5150/2022sp/schedule.html
@@ -230,7 +230,6 @@ This is a curated list of contributions by individual contributors, and all righ
 6. simulation: https://netsim.erinn.io/
 7. Exercises: https://gaia.cs.umass.edu/kurose_ross/wireshark.php
 8. Guides:
-
    > - https://iximiuz.com/en/series/computer-networking-fundamentals/
    > - https://wizardzines.com/zines/tcpdump/
    > - https://wizardzines.com/zines/networking/
@@ -241,38 +240,37 @@ This is a curated list of contributions by individual contributors, and all righ
    > - https://http2-explained.haxx.se/
    > - https://http3-explained.haxx.se/en
 
-9. Network programming in C: https://beej.us/guide/bgnet
-10. Computer Networking, A top-down approach book by Jim Kurose, lectures from the author: https://m.youtube.com/@JimKurose/videos
-11. Introduction to IoT: https://microsoft.github.io/IoT-For-Beginners/#/
-12. Computer systems, What does a CPU do: https://cpu.land/
-13. Free and open introductory computer systems books:
+10. Network programming in C: https://beej.us/guide/bgnet
+11. Computer Networking, A top-down approach book by Jim Kurose, lectures from the author: https://m.youtube.com/@JimKurose/videos
+12. Introduction to IoT: https://microsoft.github.io/IoT-For-Beginners/#/
+13. Computer systems, What does a CPU do: https://cpu.land/
+14. Free and open introductory computer systems books:
+    > - https://www.bottomupcs.com/
+    > - https://diveintosystems.org/book
 
-   > - https://www.bottomupcs.com/
-   > - https://diveintosystems.org/book
+15. CS61C Computer Organization
 
-14. CS61C Computer Organization 
+    > - Course page: https://cs61c.org/
+    > - Lectures: https://www.youtube.com/@berkeley-cs61c/videos
+    > - Alternate resource for lectures (older lectures): https://learncs.me/ucb/cs61c
 
-   > - Course page: https://cs61c.org/
-   > - Lectures: https://www.youtube.com/@berkeley-cs61c/videos
-   > - Alternate resource for lectures (older lectures): https://learncs.me/ucb/cs61c
+16. Systems programming. Introduction to computer systems
 
-15. Systems programming. Introduction to computer systems 
+    > - Course page: http://www.cs.cmu.edu/~213/
+    > - Book: http://csapp.cs.cmu.edu/3e/students.html
+    > - Lectures: https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID="b96d90ae-9871-4fae-91e2-b1627b43e25e"&maxResults=50
+    > - Exercises: http://csapp.cs.cmu.edu/3e/labs.html
 
-   > - Course page: http://www.cs.cmu.edu/~213/
-   > - Book: http://csapp.cs.cmu.edu/3e/students.html
-   > - Lectures: https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID="b96d90ae-9871-4fae-91e2-b1627b43e25e"&maxResults=50
-   > - Exercises: http://csapp.cs.cmu.edu/3e/labs.html
+17. CS 361
 
-16. CS 361
+    > - course page: https://www.cs.uic.edu/~ckanich/cs361/s21/
+    > - 2020 lectures: https://youtube.com/playlist?list=PLhy9gU5W1fvUND_5mdpbNVHC1WCIaABbP&feature=shared
+    > - 2021 lectures: https://youtube.com/playlist?list=PLhy9gU5W1fvVYcQUBZvS2wMcgsPnkQbJu&si=ped0IVsS72mTkX5N
 
-   > - course page: https://www.cs.uic.edu/~ckanich/cs361/s21/
-   > - 2020 lectures: https://youtube.com/playlist?list=PLhy9gU5W1fvUND_5mdpbNVHC1WCIaABbP&feature=shared
-   > - 2021 lectures: https://youtube.com/playlist?list=PLhy9gU5W1fvVYcQUBZvS2wMcgsPnkQbJu&si=ped0IVsS72mTkX5N
-
-17. Performance Engineering Of Software Systems(C programming): https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/pages/syllabus/
-18. GPU programming: https://enccs.github.io/gpu-programming/4-gpu-concepts/
-19. Design a CPU, learning computer architecture by building your own: https://www.udemy.com/course/design-a-cpu/
-20. Nand to Tetris, building a modern computer from first principles: https://www.nand2tetris.org/
+18. Performance Engineering Of Software Systems(C programming): https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/pages/syllabus/
+19. GPU programming: https://enccs.github.io/gpu-programming/4-gpu-concepts/
+20. Design a CPU, learning computer architecture by building your own: https://www.udemy.com/course/design-a-cpu/
+21. Nand to Tetris, building a modern computer from first principles: https://www.nand2tetris.org/
 
 ### AI-ML, Data Science, Deep Learning, etc.
 
