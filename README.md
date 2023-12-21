@@ -216,7 +216,7 @@ This is a curated list of contributions by individual contributors, and all righ
 59. Single Page Applications without using Big 4 frameworks: https://hypermedia.systems/
 60. Vanilla CSS, Kevin Powell: https://youtube.com/@KevinPowell?si=QZoUUaAG6ybCZ_m-
 
-### Computer Networks, CPU, Sytems programming, etc., (Compiled mainly by Teruya Ryuu, discord username: teruyaryuu):
+### Computer Networks, CPU, Sytems programming, etc.:
 
 1. Internet: https://www.internetsociety.org/internet/history-internet/brief-history-internet/
 2. Open computer network books. The most rewarding book for a web developer: https://hpbn.co/
