@@ -304,6 +304,8 @@ This is a curated list of contributions by individual contributors, and all righ
    > - https://www.youtube.com/@AndrejKarpathy
    > - https://www.youtube.com/@TheAIEpiphany/videos
    > - http://jalammar.github.io/
+   > - https://www.youtube.com/@umarjamilai
+   > - https://www.youtube.com/@AICoffeeBreak
 
 8. From 0 to Research Scientist, Detailed and tailored guide for UG students in AI: https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide
 9. Data Science best resources: https://github.com/tirthajyoti/Data-science-best-resources
@@ -329,7 +331,13 @@ This is a curated list of contributions by individual contributors, and all righ
 29. Introduction to machine learning: https://www.youtube.com/watch?v=w2OtwL5T1ow&list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6
 30. Tasks, stability, architecture, and compute: Training more effective learned optimizers and using them to train themselves: https://arxiv.org/abs/2009.11243
 31. Stanford XCS224U: NLU I Intro & Evolution of Natural Language Understanding, Pt. 1 I Spring 2023: https://youtu.be/K_Dh0Sxujuc?list=PLoROMvodv4rOwvldxftJTmoR3kRcWkJBp&si=eDbam_QB6qYn00cO
-32. Data science
+32. Introduction to Machine Learning: https://sebastianraschka.com/blog/2021/ml-course.html
+33. Applied Machine Learning: https://www.youtube.com/playlist?list=PL_pVmAaAnxIRnSw6wiCpSvshFyCREZmlM
+34. Introduction to Deep Learning: https://sebastianraschka.com/blog/2021/dl-course.html
+35. LLM Bootcamp: https://www.youtube.com/playlist?list=PL1T8fO7ArWleyIqOy37OVXsP4hFXymdOZ
+36. UMass CS685: Advanced Natural Language Processing (Spring 2023) https://www.youtube.com/playlist?list=PLWnsVgP6CzaelCF_jmn5HrpOXzRAPNjWj
+37. Efficient Deep Learning Computing(EfficientML.ai): https://www.youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB
+38. Data science
 
     > - introductory book: https://inferentialthinking.com/chapters/intro.html
     > - Introductory Course page: https://www.data8.org/
@@ -341,9 +349,9 @@ This is a curated list of contributions by individual contributors, and all righ
     > - Advanced Course page: http://prob140.org/ (data102  is the follow-up to data140)
     > - Advanced Book: https://data102.org/fa23/resources/#textbooks-from-previous-data-science-courses
 
-33. "This is a great little book to take you from “vaguely understand neural networks” to the modern broad state of practice. I saw very little to quibble with." - John Carmack
+39. "This is a great little book to take you from “vaguely understand neural networks” to the modern broad state of practice. I saw very little to quibble with." - John Carmack
 
     > - Book: https://fleuret.org/francois/lbdl.html
     > - Course: https://fleuret.org/dlc/
     
-35. Other advanced data science books: https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/
+40. Other advanced data science books: https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/
