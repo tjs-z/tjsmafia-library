@@ -3,7 +3,7 @@
 The members contributed to this library of the [TJS Mafia Discord server](https://discord.gg/XTEZnmuTRt). If you would like to contribute to this list to beautify/sort this easily or add additional resources, feel free to submit a PR, or you can add resources to the TJS Mafia Discord server's library channel, which will be updated here periodically.
 
 ### Disclaimer
-This is a curated list of contributions by individual contributors, and all rights to original pieces belong to their respective owners. If you're a resource owner who wants any of this resource to be removed from this list, please feel free to reach out.
+This is a curated list of contributions by individual contributors, and all rights to original pieces belong to their respective owners. If you're a resource owner who wants any of these resources removed from this list, please feel free to reach out.
 
 ### Tools list:
 
@@ -173,14 +173,14 @@ This is a curated list of contributions by individual contributors, and all righ
 39. GDB: https://beej.us/guide/bggdb/
 40. Concurrency in Python
 
-   > - https://superfastpython.com/learning-paths/
-   > - https://www.pythontutorial.net/python-concurrency/
+    > - https://superfastpython.com/learning-paths/
+    > - https://www.pythontutorial.net/python-concurrency/
 
 41. Learning syntaxes of programming languages faster
 
-   > - https://hyperpolyglot.org/
-   > - https://exercism.org/
-   > - https://learnxinyminutes.com/
+    > - https://hyperpolyglot.org/
+    > - https://exercism.org/
+    > - https://learnxinyminutes.com/
 
 42. This intro to programming felt interesting pedagogy-wise: https://dcic-world.org/2022-08-28/index.html
 43. Programming language theory
