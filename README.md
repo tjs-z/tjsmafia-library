@@ -1,6 +1,9 @@
 # TJS Mafia Discord Library
 ## Contributions
-The members made all contributions to this library of the [TJS Mafia Discord server](https://discord.gg/XTEZnmuTRt)
+The members contributed to this library of the [TJS Mafia Discord server](https://discord.gg/XTEZnmuTRt). If you would like to contribute to this list to beautify/sort this easily or add additional resources, feel free to submit a PR, or you can add resources to the TJS Mafia Discord server's library channel, which will be updated here periodically.
+
+### Disclaimer
+This is a curated list of contributions by individual contributors, and all rights to original pieces belong to their respective owners. If you're a resource owner who wants any of this resource to be removed from this list, please feel free to reach out.
 
 ### Tools list:
 
@@ -25,7 +28,7 @@ The members made all contributions to this library of the [TJS Mafia Discord ser
 9. full stack web dev course: https://www.theodinproject.com/paths/full-stack-javascript
 10. python tutorial: https://youtube.com/playlist?list=PLRRsXF6W98Sudlltrf8rrxbPnzkHcHgG3
 11. php tutorial:  https://youtu.be/OK_JCtrrv-c
-12. laravel fundamentals  : https://www.youtube.com/playlist?list=PLFHz2csJcgk_3VJwzVoeyMuC1rdBcfiLv
+12. laravel fundamentals: https://www.youtube.com/playlist?list=PLFHz2csJcgk_3VJwzVoeyMuC1rdBcfiLv
 13. laravel blade doc: https://laravel.com/docs/9.x/blade
 14. flutter tutorial: https://www.youtube.com/watch?v=IfUjHNODRoM&list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT&index=3
 15. seo tutorial: https://buildd.co/courses/startup-seo
@@ -37,6 +40,7 @@ The members made all contributions to this library of the [TJS Mafia Discord ser
 21. learn system design: https://www.youtube.com/c/ByteByteGo
 22. computer science roadmap: https://roadmap.sh/
 23. search tool for software devs: https://codepilot.netlify.app/
+24. Self-improvement resources: https://drive.google.com/drive/folders/1nGvGpXTnpogzuLX5Uc6UFRrfidypK2PC?usp=sharing
 
 ### For Copywriting:
 
@@ -73,7 +77,7 @@ The members made all contributions to this library of the [TJS Mafia Discord ser
 3. Awesome opensource: https://awesomeopensource.com/
 4. Connected Papers, A unique, visual tool to help researchers and applied scientists find and explore papers relevant to their field of work: https://www.connectedpapers.com/
 
-### Hardware:
+### Hardware, IOT, etc.:
 
 1. Hardware Security, Semi-invasive attacks, a new approach to hardware security analysis: https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-630.pdf
 2. How to reverse engineer integrated circuits: https://www.youtube.com/watch?v=aHx-XUA6f9g
@@ -82,7 +86,15 @@ The members made all contributions to this library of the [TJS Mafia Discord ser
    > Samy Kankar applied-hacking channel: https://www.youtube.com/user/s4myk
    > Telegram Channel: https://t.me/hardwareSecurity
 
-### Programming, DSA, System Design, etc.
+### Math:
+
+1. Middle school and high school math: https://artofproblemsolving.com/videos
+2. AOPS math book: https://artofproblemsolving.com/store/list/aops-curriculum (search annas archive for free books)
+3. Math Foundations by Norman Wildberger: https://youtube.com/playlist?list=PL5A714C94D40392AB&si=ijvCtn8YbeQfd7xx
+4. Mathematical playground: https://mathigon.org/
+5. Math is Fun (K-12): https://www.mathsisfun.com/
+
+### Programming, Dev, DSA, System Design, etc.:
 
 1. Database Management Systems - Ramakrishnan Gehrke 3rd-Edition: https://github.com/Premiumlab/Database-Management-System-Ramakrishnan-Gehrke-3rd-Edition
 2. Fundamentals of Cloud computing: https://github.com/learntocloud/learn-to-cloud
@@ -155,6 +167,112 @@ The members made all contributions to this library of the [TJS Mafia Discord ser
 33. Intro to database systems: https://m.youtube.com/playlist?list=PLSE8ODhjZXjaKScG3l0nuOiDTTqpfnWFf
 34. Advanced database management systems: https://youtube.com/playlist?list=PLSE8ODhjZXjYzlLMbX3cR0sxWnRM7CLFn
 35. Database group website: https://db.cs.cmu.edu/
+36. Crash course in c: https://cs.uwaterloo.ca/~plragde/flaneries/IYMLC/
+37. Introduction to C programming using C23: https://beej.us/guide/bgc/
+38. Design recipes in c: https://postfix.hci.uni-hannover.de/files/prog1script/script.html
+39. GDB: https://beej.us/guide/bggdb/
+40. Concurrency in Python
+
+   > - https://superfastpython.com/learning-paths/
+   > - https://www.pythontutorial.net/python-concurrency/
+
+41. Learning syntaxes of programming languages faster
+
+   > - https://hyperpolyglot.org/
+   > - https://exercism.org/
+   > - https://learnxinyminutes.com/
+
+42. This intro to programming felt interesting pedagogy-wise: https://dcic-world.org/2022-08-28/index.html
+43. Programming language theory
+
+   > - Course site https://cs.brown.edu/courses/csci1730/2022/index.html
+   > - Book -https://www.plai.org/ (edited)
+
+44. System Design
+
+   > - https://github.com/donnemartin/system-design-primer
+   > - https://blog.bytebytego.com/p/free-system-design-pdf-158-pages
+   > - https://github.com/ByteByteGoHq/system-design-101
+   > - https://www.youtube.com/@SDFC
+
+45. Software Architecture: https://aosabook.org/en/
+46. Software engineering Free book + lectures 
+
+   > - https://saasbook.info/
+   > - https://m.youtube.com/@saasbook/playlists
+
+47. Lectures: https://www.cs.cornell.edu/courses/cs5150/2020sp/lectures.html
+48. New syllabus  video lectures: https://www.cs.cornell.edu/courses/cs5150/2022sp/schedule.html
+49. Strivers A2Z DSA Course/Sheet - Crack Any FAANG or PBCs: https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/
+50. A curated list of Rust code and resources: https://github.com/rust-unofficial/awesome-rust
+51. Building a web browser Book: https://browser.engineering/
+52. A new browser from scratch: https://ladybird.dev/
+53. Andreas Kling (who previously worked on the teams that built the KD browser and Safari) is building a new web browser from scratch, including the JS engine. He's been live coding the browser: https://youtube.com/playlist?list=PLMOpZvQB55be0Nfytz9q2KC_drvoKtkpS&si=OK_c1L1mgfsCN3JN
+54. Jit compiler: https://youtube.com/playlist?list=PLMOpZvQB55bcTsXzRcBjHJJb52OGWwNjr&si=u2T_vkc4as5VgXKs
+55. Js bytecode VM: https://youtube.com/playlist?list=PLMOpZvQB55beChggmvk-sUm8X_vSezpqL&si=H62Jt1Q0qagbNGRq
+56. Visual web dev advanced HTML canvas and JS 2021: https://youtube.com/playlist?list=PLB0Tybl0UNfb3hTHPfEIg1SPw_-Ca9iIw&si=thq7P3s7mzDR-790
+57. Visual web dev advanced HTML canvas and JS 2019: https://youtube.com/playlist?list=PLB0Tybl0UNfY_W97391GIxM8I27c4HKRm&si=NlXUHKwRO_1Td30i
+58. Location-aware application development 2020: https://youtube.com/playlist?list=PLB0Tybl0UNfY1wfdwb8tlLBEz6H41P3aG&si=PCZbd2jyzNbmD06V
+59. Single Page Applications without using Big 4 frameworks: https://hypermedia.systems/
+60. Vanilla CSS, Kevin Powell: https://youtube.com/@KevinPowell?si=QZoUUaAG6ybCZ_m-
+
+### Computer Networks, CPU, Sytems programming, etc., (Compiled mainly by Teruya Ryuu, discord username: teruyaryuu):
+
+1. Internet: https://www.internetsociety.org/internet/history-internet/brief-history-internet/
+2. Open computer network books. The most rewarding book for a web developer: https://hpbn.co/
+3. Beginner-friendly (no pre-requisite): https://beej.us/guide/bgnet0/
+4. Other books to read if you have taken a course in computer systems
+   
+   > - https://book.systemsapproach.org/
+   > - https://beta.computer-networking.info/syllabus/default/index.html
+
+5. Good lectures from a now archives stanford mooc: https://youtube.com/playlist?list=PLoCMsyE1cvdWKsLVyf6cPwCLDIZnOj0NS&si=VD5AUumItoBwSjbP
+6. simulation: https://netsim.erinn.io/
+7. Exercises: https://gaia.cs.umass.edu/kurose_ross/wireshark.php
+8. Guides:
+
+   > - https://iximiuz.com/en/series/computer-networking-fundamentals/
+   > - https://wizardzines.com/zines/tcpdump/
+   > - https://wizardzines.com/zines/networking/
+   > - https://wizardzines.com/networking-tools-poster/
+   > - https://jvns.ca/blog/2019/02/10/a-few-networking-tool-comics/
+   > - https://jvns.ca/juliasections/computer-networking/
+   > - https://launchschool.com/books/http
+   > - https://http2-explained.haxx.se/
+   > - https://http3-explained.haxx.se/en
+
+9. Network programming in C: https://beej.us/guide/bgnet
+10. Computer Networking, A top-down approach book by Jim Kurose, lectures from the author: https://m.youtube.com/@JimKurose/videos
+11. Introduction to IoT: https://microsoft.github.io/IoT-For-Beginners/#/
+12. Computer systems, What does a CPU do: https://cpu.land/
+13. Free and open introductory computer systems books:
+
+   > - https://www.bottomupcs.com/
+   > - https://diveintosystems.org/book
+
+14. CS61C Computer Organization 
+
+   > - Course page: https://cs61c.org/
+   > - Lectures: https://www.youtube.com/@berkeley-cs61c/videos
+   > - Alternate resource for lectures (older lectures): https://learncs.me/ucb/cs61c
+
+15. Systems programming. Introduction to computer systems 
+
+   > - Course page: http://www.cs.cmu.edu/~213/
+   > - Book: http://csapp.cs.cmu.edu/3e/students.html
+   > - Lectures: https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID="b96d90ae-9871-4fae-91e2-b1627b43e25e"&maxResults=50
+   > - Exercises: http://csapp.cs.cmu.edu/3e/labs.html
+
+16. CS 361
+
+   > - course page: https://www.cs.uic.edu/~ckanich/cs361/s21/
+   > - 2020 lectures: https://youtube.com/playlist?list=PLhy9gU5W1fvUND_5mdpbNVHC1WCIaABbP&feature=shared
+   > - 2021 lectures: https://youtube.com/playlist?list=PLhy9gU5W1fvVYcQUBZvS2wMcgsPnkQbJu&si=ped0IVsS72mTkX5N
+
+17. Performance Engineering Of Software Systems(C programming): https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/pages/syllabus/
+18. GPU programming: https://enccs.github.io/gpu-programming/4-gpu-concepts/
+19. Design a CPU, learning computer architecture by building your own: https://www.udemy.com/course/design-a-cpu/
+20. Nand to Tetris, building a modern computer from first principles: https://www.nand2tetris.org/
 
 ### AI-ML, Data Science, Deep Learning, etc.
 
@@ -213,3 +331,21 @@ The members made all contributions to this library of the [TJS Mafia Discord ser
 29. Introduction to machine learning: https://www.youtube.com/watch?v=w2OtwL5T1ow&list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6
 30. Tasks, stability, architecture, and compute: Training more effective learned optimizers and using them to train themselves: https://arxiv.org/abs/2009.11243
 31. Stanford XCS224U: NLU I Intro & Evolution of Natural Language Understanding, Pt. 1 I Spring 2023: https://youtu.be/K_Dh0Sxujuc?list=PLoROMvodv4rOwvldxftJTmoR3kRcWkJBp&si=eDbam_QB6qYn00cO
+32. Data science
+
+    > - introductory book: https://inferentialthinking.com/chapters/intro.html
+    > - Introductory Course page: https://www.data8.org/
+    > - Lectures: https://youtube.com/playlist?list=PL3juAj0fqNsLLBRFnTAby0VjByHoFb0qQ&si=lMqUUosH4w60KdsM
+    > - Intermediate Book: https://learningds.org/intro.html (This book was used for the course data100 in 2019. The book's first paragraph says it's an introductory resource, but the course is a follow-up to data8 and is an intermediate one and has other materials apart from this book.)
+    > - Intermediate Course page: https://ds100.org/su19/
+    > - The current version of the course uses this book: https://ds100.org/course-notes/
+    > - Advanced, The follow-up to data100 is data140 Book: http://prob140.org/textbook/content/README.html
+    > - Advanced Course page: http://prob140.org/ (data102  is the follow-up to data140)
+    > - Advanced Book: https://data102.org/fa23/resources/#textbooks-from-previous-data-science-courses
+
+33. "This is a great little book to take you from “vaguely understand neural networks” to the modern broad state of practice. I saw very little to quibble with." - John Carmack
+
+    > - Book: https://fleuret.org/francois/lbdl.html
+    > - Course: https://fleuret.org/dlc/
+    
+35. Other advanced data science books: https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/
