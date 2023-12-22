@@ -287,7 +287,7 @@ This is a curated list of contributions by individual contributors, and all righ
 
 ### AI-ML, Data Science, Deep Learning, etc.
 
-#### 1. Getting started with reading ML Research Papers (Written by Ellfer Rudy, Discord username: ellferrudy)
+**1. Getting started with reading ML Research Papers (Written by Ellfer Rudy, Discord username: ellferrudy)**
   
   > So, starting, you must know basic and common mathematic notations. For that, ill suggest you learn them and use some cheat sheets as a reference.
   > - https://machinelearningmastery.com/basics-mathematical-notation-machine-learning/
