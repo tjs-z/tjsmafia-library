@@ -5,6 +5,19 @@ The members contributed to this library of the [TJS Mafia Discord server](https:
 ### Disclaimer
 This is a curated list of contributions by individual contributors, and all rights to original pieces belong to their respective owners. If you're a resource owner who wants any of these resources removed from this list, please feel free to reach out.
 
+## Table of contents:
+- [Tools Lists](#tools-list)
+- [Resources/books list](#resourcesbooks-list)
+- [For Copywriting](#for-copywriting)
+- [Email Marketing](#email-marketing)
+- [General Libraries](#general-libraries)
+- [Hardware, IOT, etc.](#hardware-iot-etc)
+- [Math](#math)
+- [Programming, Dev, DSA, System Design, etc.](#programming-dev-dsa-system-design-etc)
+- [Computer Networks, CPU, Sytems programming, etc.](#computer-networks-cpu-sytems-programming-etc)
+- [AI-ML, Data Science, Deep Learning, etc.](#ai-ml-data-science-deep-learning-etc)
+    - [1. Getting started with reading ML Research Papers (Written by Ellfer Rudy, Discord username: ellferrudy)](#1-getting-started-with-reading-ml-research-papers-written-by-ellfer-rudy-discord-username-ellferrudy)
+
 ### Tools list:
 
 1. all-in online editor: https://www.kapwing.com/tools
