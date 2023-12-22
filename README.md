@@ -16,6 +16,7 @@ This is a curated list of contributions by individual contributors, and all righ
 - [Programming, Dev, DSA, System Design, etc.](#programming-dev-dsa-system-design-etc)
 - [Computer Networks, CPU, Sytems programming, etc.](#computer-networks-cpu-sytems-programming-etc)
 - [AI-ML, Data Science, Deep Learning, etc.](#ai-ml-data-science-deep-learning-etc)
+- [UX/UI](#UX/UI-inspirations)
 
 ### Tools list:
 
@@ -367,3 +368,7 @@ This is a curated list of contributions by individual contributors, and all righ
     > - Course: https://fleuret.org/dlc/
     
 40. Other advanced data science books: https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/
+
+
+### UX/UI
+1. The Component Gallery is an up-to-date repository of interface components based on examples from the world of design systems: https://component.gallery/
