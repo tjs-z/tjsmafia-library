@@ -133,7 +133,11 @@ This is a curated list of contributions by individual contributors, and all righ
    > - https://github.com/mjwestcott/Goodrich
 
 10. A lighter book on Algorithms: Grokking Algorithms by Aditya Y. Bhargava
-11. Coding Interview university: https://github.com/jwasham/coding-interview-university
+11. Coding Interview: 
+
+      > - https://github.com/jwasham/coding-interview-university
+      > - https://www.techinterviewhandbook.org/
+
 12. UC Berkeley's cs61b is an introduction to data structures and algorithms course in Java: https://datastructur.es/
 13. Algorithmic Thinking by Tim Roughgarden: https://youtube.com/@timroughgardenlectures1861?si=ReCn-5S6Zefokpb3
 14. László Lovász's Discrete Mathematics book: https://cims.nyu.edu/~regev/teaching/discrete_math_fall_2005/dmbook.pdf
