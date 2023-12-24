@@ -381,6 +381,7 @@ This is a curated list of contributions by individual contributors, and all righ
 ### Blockchain development
 
 1. These are sites that have web3 development courses for free.
+
    > - https://metaschool.so/courses
    > - https://www.metacrafters.io
    > - https://learnweb3.io/level-up
