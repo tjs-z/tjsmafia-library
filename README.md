@@ -17,6 +17,7 @@ This is a curated list of contributions by individual contributors, and all righ
 - [Computer Networks, CPU, Sytems programming, etc.](#computer-networks-cpu-sytems-programming-etc)
 - [AI-ML, Data Science, Deep Learning, etc.](#ai-ml-data-science-deep-learning-etc)
 - [UX/UI](#uxui)
+- [Blockchain Development](#Blockchain-development)
 
 ### Tools list:
 
