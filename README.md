@@ -17,6 +17,7 @@ This is a curated list of contributions by individual contributors, and all righ
 - [Computer Networks, CPU, Sytems programming, etc.](#computer-networks-cpu-sytems-programming-etc)
 - [AI-ML, Data Science, Deep Learning, etc.](#ai-ml-data-science-deep-learning-etc)
 - [UX/UI](#uxui)
+- [Blockchain Development](#Blockchain-development)
 
 ### Tools list:
 
@@ -376,3 +377,11 @@ This is a curated list of contributions by individual contributors, and all righ
 
 ### UX/UI
 1. The Component Gallery is an up-to-date repository of interface components based on examples from the world of design systems: https://component.gallery/
+
+### Blockchain development
+
+1. These are sites that have web3 development courses for free.
+   
+  > - https://metaschool.so/courses
+  > - https://www.metacrafters.io
+  > - https://learnweb3.io/level-up
