@@ -37,8 +37,8 @@ This is a curated list of contributions by individual contributors, and all righ
 4. A to Z computer science courses: https://github.com/Developer-Y/cs-video-courses#introduction-to-computer-science
 5. why web-3 matters: https://twitter.com/cdixon/status/1442201621266534402?s=20&t=vkx7jrgn21hhMhfb-1e26w
 6. Beginner's guide to crypto: https://creatoreconomy.so/p/curious-beginner-guide-to-crypto?utm_source=url
-7. How to write a professional email: https://twitter.com/the_jasonsamuel/status/1342919959375056896?s=20
-8. open-source flutter library: https://www.getwidget.dev/
+7. open-source flutter library: https://www.getwidget.dev/
+8. New mono typeface: https://commitmono.com/
 9. full stack web dev course: https://www.theodinproject.com/paths/full-stack-javascript
 10. python tutorial: https://youtube.com/playlist?list=PLRRsXF6W98Sudlltrf8rrxbPnzkHcHgG3
 11. php tutorial:  https://youtu.be/OK_JCtrrv-c
