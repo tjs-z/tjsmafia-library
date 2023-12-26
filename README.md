@@ -55,6 +55,7 @@ This is a curated list of contributions by individual contributors, and all righ
 22. computer science roadmap: https://roadmap.sh/
 23. search tool for software devs: https://codepilot.netlify.app/
 24. Self-improvement resources: https://drive.google.com/drive/folders/1nGvGpXTnpogzuLX5Uc6UFRrfidypK2PC?usp=sharing
+25. Notes for Programming Languages/Frameworks: https://goalkicker.com
 
 ### For Copywriting:
 
@@ -339,7 +340,10 @@ This is a curated list of contributions by individual contributors, and all righ
 19. Deep Learning Course (NYU, Spring 2020) - https://www.youtube.com/playlist?list=PL80I41oVxglKcAHllsU0txr3OuTTaWX2v
 20. Deep Learning - IIT Madras - https://www.youtube.com/playlist?list=PLyqSpQzTE6M9gCgajvQbc68Hk_JKGBAYT
 21. Neural Networks: Zero to Hero - https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ (personal fav. playlist)
-22. Practical Deep Learning for Coders 2022 - https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU
+22. fast.ai:
+    > - Practical Deep Learning for Coders 2022 - https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU
+    > - Practical Deep Learning 2022 Part 2 - https://www.youtube.com/playlist?list=PLfYUBJiXbdtRUvTUYpLdfHHp9a58nWVXP
+
 23. Supervised Machine Learning - https://www.coursera.org/learn/machine-learning
 24. Building systems with ChatGPT: https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/
 25. LangChain for LLM applications development: https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/
@@ -373,6 +377,14 @@ This is a curated list of contributions by individual contributors, and all righ
     > - Course: https://fleuret.org/dlc/
     
 40. Other advanced data science books: https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/
+41. Transformer Resources:
+    > - GPT in 60 Lines of NumPy https://jaykmody.com/blog/gpt-from-scratch/
+    > - Transformer Inference Arithmetic: https://kipp.ly/transformer-inference-arithmetic/
+    > - Stanford CS25 - Transformers United: https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM
+42. Blogs:
+    > - HuggingFace: https://huggingface.co/blog
+    > - Weights and Biases: https://wandb.ai/fully-connected
+43. Collection of ML/DL Courses: https://deep-learning-drizzle.github.io
 
 
 ### UX/UI
