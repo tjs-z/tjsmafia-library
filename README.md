@@ -13,6 +13,7 @@ This is a curated list of contributions by individual contributors, and all righ
 - [General Libraries](#general-libraries)
 - [Hardware, IOT, etc.](#hardware-iot-etc)
 - [Math](#math)
+- [Physics](#physics)
 - [Programming, Dev, DSA, System Design, etc.](#programming-dev-dsa-system-design-etc)
 - [Computer Networks, CPU, Sytems programming, etc.](#computer-networks-cpu-sytems-programming-etc)
 - [AI-ML, Data Science, Deep Learning, etc.](#ai-ml-data-science-deep-learning-etc)
@@ -115,6 +116,10 @@ This is a curated list of contributions by individual contributors, and all righ
 5. Math is Fun (K-12): https://www.mathsisfun.com/
 6. Essence of calculus: https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
 7. Learn statistics from visuals: https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9
+
+### Physics:
+
+1. Walter Lewin's lectures: https://www.youtube.com/playlist?list=PLERGeJGfknBR3pXCPlV3bgb_qHCSNOdBf
 
 ### Programming, Dev, DSA, System Design, etc.:
 
