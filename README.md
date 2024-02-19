@@ -13,6 +13,7 @@ This is a curated list of contributions by individual contributors, and all righ
 - [General Libraries](#general-libraries)
 - [Hardware, IOT, etc.](#hardware-iot-etc)
 - [Math](#math)
+- [Physics](#physics)
 - [Programming, Dev, DSA, System Design, etc.](#programming-dev-dsa-system-design-etc)
 - [Computer Networks, CPU, Sytems programming, etc.](#computer-networks-cpu-sytems-programming-etc)
 - [AI-ML, Data Science, Deep Learning, etc.](#ai-ml-data-science-deep-learning-etc)
@@ -56,6 +57,11 @@ This is a curated list of contributions by individual contributors, and all righ
 23. search tool for software devs: https://codepilot.netlify.app/
 24. Self-improvement resources: https://drive.google.com/drive/folders/1nGvGpXTnpogzuLX5Uc6UFRrfidypK2PC?usp=sharing
 25. Notes for Programming Languages/Frameworks: https://goalkicker.com
+26. DSA roadmap: https://neetcode.io/roadmap
+27. Electronics and computer architecture: https://www.youtube.com/@BenEater
+28. Embedded development
+    - https://www.youtube.com/@digikey
+    - https://www.youtube.com/@StateMachineCOM
 
 ### For Copywriting:
 
@@ -108,6 +114,12 @@ This is a curated list of contributions by individual contributors, and all righ
 3. Math Foundations by Norman Wildberger: https://youtube.com/playlist?list=PL5A714C94D40392AB&si=ijvCtn8YbeQfd7xx
 4. Mathematical playground: https://mathigon.org/
 5. Math is Fun (K-12): https://www.mathsisfun.com/
+6. Essence of calculus: https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
+7. Learn statistics from visuals: https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9
+
+### Physics:
+
+1. Walter Lewin's lectures: https://www.youtube.com/playlist?list=PLERGeJGfknBR3pXCPlV3bgb_qHCSNOdBf
 
 ### Programming, Dev, DSA, System Design, etc.:
 
@@ -234,6 +246,7 @@ This is a curated list of contributions by individual contributors, and all righ
 58. Location-aware application development 2020: https://youtube.com/playlist?list=PLB0Tybl0UNfY1wfdwb8tlLBEz6H41P3aG&si=PCZbd2jyzNbmD06V
 59. Single Page Applications without using Big 4 frameworks: https://hypermedia.systems/
 60. Vanilla CSS, Kevin Powell: https://youtube.com/@KevinPowell?si=QZoUUaAG6ybCZ_m-
+61. DSA Roadmap: https://neetcode.io/roadmap
 
 ### Computer Networks, CPU, Sytems programming, etc.:
 
@@ -389,6 +402,8 @@ This is a curated list of contributions by individual contributors, and all righ
 
 ### UX/UI
 1. The Component Gallery is an up-to-date repository of interface components based on examples from the world of design systems: https://component.gallery/
+2. UI/UX case studies: https://growth.design/
+3. Material Design: https://m3.material.io/
 
 ### Blockchain development
 
