@@ -29,6 +29,7 @@ This is a curated list of contributions by individual contributors, and all righ
 5. personal scheduling tool (free calendly alternative): https://zcal.co/
 6. powerful form builder (google forms, typeform alternative): https://tally.so/
 7. personal notebook: https://www.notion.so/
+8. convert our local database to spreadsheet: https://nocodb.com(alternative to airtable)
 
 ### Resources/books list:
 
