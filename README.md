@@ -371,7 +371,7 @@ This is a curated list of contributions by individual contributors, and all righ
 33. Applied Machine Learning: https://www.youtube.com/playlist?list=PL_pVmAaAnxIRnSw6wiCpSvshFyCREZmlM
 34. Introduction to Deep Learning: https://sebastianraschka.com/blog/2021/dl-course.html
 35. LLM Bootcamp: https://www.youtube.com/playlist?list=PL1T8fO7ArWleyIqOy37OVXsP4hFXymdOZ
-36. UMass CS685: Advanced Natural Language Processing (Spring 2023) https://www.youtube.com/playlist?list=PLWnsVgP6CzaelCF_jmn5HrpOXzRAPNjWj
+36. UMass CS685: Advanced Natural Language Processing (Spring 2024) https://www.youtube.com/playlist?list=PLWnsVgP6CzafDszSy-njjdqnliv5qT0EW
 37. Efficient Deep Learning Computing(EfficientML.ai): https://www.youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB
 38. Data science
 
