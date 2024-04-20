@@ -399,6 +399,7 @@ This is a curated list of contributions by individual contributors, and all righ
     > - HuggingFace: https://huggingface.co/blog
     > - Weights and Biases: https://wandb.ai/fully-connected
 43. Collection of ML/DL Courses: https://deep-learning-drizzle.github.io
+44. Cuda Mode Lectures: https://github.com/cuda-mode/lectures
 
 
 ### UX/UI
