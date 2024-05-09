@@ -19,6 +19,7 @@ This is a curated list of contributions by individual contributors, and all righ
 - [AI-ML, Data Science, Deep Learning, etc.](#ai-ml-data-science-deep-learning-etc)
 - [UX/UI](#uxui)
 - [Blockchain Development](#Blockchain-development)
+- [Web Development](#Web-Development)
 
 ### Tools list:
 
