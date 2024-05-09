@@ -418,6 +418,7 @@ This is a curated list of contributions by individual contributors, and all righ
 ### Web Development
 
 Basic courses and projects toolkit: https://gregarious-care-697.notion.site/Web-Development-Toolkit-8f964211de6a4b529840ca8d390300d0
+
 Some advanced web development tools:
 1. Accessibility:
     > - https://guides.18f.gov/accessibility/checklist/
