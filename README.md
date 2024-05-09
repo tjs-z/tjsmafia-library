@@ -414,3 +414,58 @@ This is a curated list of contributions by individual contributors, and all righ
    > - https://metaschool.so/courses
    > - https://www.metacrafters.io
    > - https://learnweb3.io/level-up
+
+### Web Development
+
+Basic courses and projects toolkit: https://gregarious-care-697.notion.site/Web-Development-Toolkit-8f964211de6a4b529840ca8d390300d0
+Some advanced web development tools:
+1. Accessibility:
+    > - https://guides.18f.gov/accessibility/checklist/
+    > - https://zarhasan.github.io/color-contrast-checker/
+    > - https://color.review/
+2. Animations:
+    > - https://ui.aceternity.com/
+    > - https://www.animate-code.com/
+    > - https://css-loaders.com/
+    > - https://www.framer.com/motion/
+    > - https://gsap.com/
+    > - https://www.hover.dev/
+    > - https://animation.ibelick.com/
+    > - https://spline.design/
+3. API:
+    > - https://appbackend.io/
+    > - https://www.postman.com/
+    > - https://replicate.com/
+    > - https://www.revert.dev/
+    > - https://strapi.io/
+    > - https://www.contentful.com/
+    > - https://www.sanity.io/
+4. Authentication:
+    > - https://blitzjs.com/
+    > - https://clerk.com/
+    > - https://www.convex.dev/
+    > - https://kinde.com/
+    > - https://next-auth.js.org/
+    > - https://supabase.com/
+5. Backgrounds:
+    > - https://www.magicpattern.design/tools/css-backgrounds
+    > - https://bg.ibelick.com/
+    > - https://www.magicpattern.design/
+6. Email:
+   > - https://www.emailjs.com/
+   > - https://react.email/
+   > - https://resend.com/
+7. Cheatsheets:
+   > - https://htmlcheatsheet.com/
+   > - https://reactpatterns.com/
+   > - https://tailwindcomponents.com/cheatsheet/
+   > - https://react-typescript-cheatsheet.netlify.app/
+   > - https://www.thinkful.com/blog/web-developer-cheat-sheet/
+9. Deployment:
+   > - https://vercel.com/
+   > - https://www.netlify.com/
+   > - https://render.com/
+   
+    
+   
+   
