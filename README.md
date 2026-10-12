@@ -249,6 +249,7 @@ This is a curated list of contributions by individual contributors, and all righ
 59. Single Page Applications without using Big 4 frameworks: https://hypermedia.systems/
 60. Vanilla CSS, Kevin Powell: https://youtube.com/@KevinPowell?si=QZoUUaAG6ybCZ_m-
 61. DSA Roadmap: https://neetcode.io/roadmap
+62. Learn programming languages by doing projects : https://github.com/practical-tutorials/project-based-learning
 
 ### Computer Networks, CPU, Sytems programming, etc.:
 
